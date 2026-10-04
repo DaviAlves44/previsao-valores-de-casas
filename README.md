@@ -1,7 +1,6 @@
 # previsao-valores-de-casas
  1 - Introdução:
- Esse é um exercício prático de regressão para prever preços de imóveis, usando um modelo de Machine Learning treinado com dados reais. O dataset utilizado foi o
-blob:https://www.kaggle.com/44dbf339-0030-4ac2-9ea6-7cd03da89551
+ Esse é um exercício prático de regressão para prever preços de imóveis, usando um modelo de Machine Learning treinado com dados reais. A base de dados está anexada nesse repositório.
 
 2 - Problema e Dados:
  O dataset veio do kaggle com 13 colunas e 545 linhas com a variável alvo sendo "prices"
