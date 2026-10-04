@@ -5,7 +5,7 @@ blob:https://www.kaggle.com/44dbf339-0030-4ac2-9ea6-7cd03da89551
 
 2 - Problema e Dados:
  O dataset veio do kaggle com 13 colunas e 545 linhas com a variável alvo sendo "prices"
-usei algumas lógicas que já foram utilizadas antes em outro projeto meu feito em grupo (também no meu github) mas tive que dessa vez ir além do teórico, então nessa semana eu aprendi sozinho o que fazer, com a IA me guiando nos próximos passos de aprendizados e quais vídeos ver e etc.
+usei algumas lógicas que já foram utilizadas antes em outro projeto meu feito em grupo (também no meu github) mas tive que dessa vez ir além do teórico, então nessa semana eu aprendi sozinho o que fazer, principalmente com videos e pequenos exercícios.
 
 3 - O que eu fiz: 
 - Tratei as variáveis categóricas (sim/não) transformando-as em valores numéricos (Assim como meu trabalho de previsões de atrasos disponível também no meu github)
