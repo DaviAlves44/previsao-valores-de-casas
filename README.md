@@ -38,7 +38,6 @@ tudo na prática, célula por célula, entendendo cada etapa do processo, minha 
 - Normalizar variáveis com escalas muito diferentes entre si
 - Incluir mais dados e variáveis, como localização do imóvel e proximidade com o centro da cidade, praias e etc
 
-8-
 
 
 
